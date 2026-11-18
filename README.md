@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm Abyaan Syed
 ##  About Me
-_I'm a cybersecurity major at the University of Texas at San Antonio (UTSA). I'm learning Linux, virtual machines, and git and GitHub for the first time._
+_I'm a cybersecurity major at the University of Texas at San Antonio (UTSA). I'm learning Linux, virtual machines, and git and GitHub._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
